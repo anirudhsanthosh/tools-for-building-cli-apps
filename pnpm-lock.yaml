@@ -35,6 +35,9 @@ importers:
       tasuku:
         specifier: ^2.0.8
         version: 2.0.8
+      zx:
+        specifier: ^8.8.5
+        version: 8.8.5
     devDependencies:
       '@types/react':
         specifier: ^19.2.10
@@ -617,6 +620,11 @@ packages:
   yoga-layout@3.2.1:
     resolution: {integrity: sha512-0LPOt3AxKqMdFBZA3HBAt/t/8vIKq7VaQYbuA8WxCgung+p9TVyKRYdpvCb80HcdTN2NkbIKbhNwKUfm3tQywQ==}
 
+  zx@8.8.5:
+    resolution: {integrity: sha512-SNgDF5L0gfN7FwVOdEFguY3orU5AkfFZm9B5YSHog/UDHv+lvmd82ZAsOenOkQixigwH2+yyH198AwNdKhj+RA==}
+    engines: {node: '>= 12.17.0'}
+    hasBin: true
+
 snapshots:
 
   '@alcalzone/ansi-tokenize@0.2.4':
@@ -1054,3 +1062,5 @@ snapshots:
   ws@8.19.0: {}
 
   yoga-layout@3.2.1: {}
+
+  zx@8.8.5: {}

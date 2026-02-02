@@ -1,4 +1,4 @@
-# CLI App Demo
+# Tools for building CLI apps
 
 This project showcases different libraries for building Command Line Interface (CLI) tools in Node.js. Each file in this repository demonstrates the usage of a specific library.
 
@@ -61,3 +61,13 @@ This project showcases different libraries for building Command Line Interface (
 **Repository**: [https://github.com/SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 
 ![Inquirer Demo](./images/Inquirer.svg)
+
+---
+
+### 7. zx
+
+**Description**: A tool for writing better scripts. It provides a wrapper around `child_process`, handles escaping arguments, and provides sensible defaults.  
+**Demo File**: `zx-demo.mjs`  
+**Repository**: [https://github.com/google/zx](https://github.com/google/zx)
+
+_(No image available)_
